@@ -1,1 +1,1 @@
-# how-to-use-git-and-github
+# 0006_how_to_use_git_and_github
